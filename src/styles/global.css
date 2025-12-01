@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  /* CAMBIO DE FUENTES */
+  --font-sans: "Lato", sans-serif;
+  --font-serif: "Montserrat", sans-serif; /* Usamos Montserrat como la fuente de "Títulos" */
+
+  /* PALETA FRANCOLINO (Penal Dark) */
+  --color-bg-dark: #050505; 
+  --color-bg-card: #111111;
+  
+  --color-accent: #dc2626; /* Rojo Intenso */
+  --color-accent-hover: #991b1b;
+  
+  --color-text-main: #ffffff;
+}
